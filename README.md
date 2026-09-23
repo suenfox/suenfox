@@ -5,8 +5,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=1484002)
 [![Linkedin: posquit0](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/posquit0/)](https://www.linkedin.com/in/posquit0/)
 [![Twitter: posquit0](https://img.shields.io/twitter/follow/posquit0?style=social)](https://twitter.com/posquit0)
-[![GitHub posquit0](https://img.shields.io/github/followers/posquit0?label=follow&style=social)](https://github.com/posquit0)
-[![GitHub Stars](https://img.shields.io/github/stars/posquit0?style=social)](https://github.com/posquit0)
 [![Hits](https://komarev.com/ghpvc/?username=posquit0&color=red&label=Hits)](https://github.com/posquit0)
 
 Seasoned SRE/DevOps leader currently on a career sabbatical cherishing family moments, seeking high-impact opportunities in fast-growing start-up companies.
